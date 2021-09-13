@@ -5,9 +5,9 @@ Application flutterda firebasedan foydalanib yasaldi.<br>
 Ushbu chat applicationida siz ro'yxatdan o'tgan barcha odam bilan suhbatlashishingiz mumkin. <br>
 Chatlarni butunlay yoki ma'lum bir qismini o'chirish ham mumkin, (faqatgina shaxsiy chatlarni)<br>
 Guruhlardagi chatlarni esa faqat admin paneldan o'zgartirish mummkin <br>
-Ushbu applicationni 5-6 kun ichida yasadim, 2 haftalar avval<br><br><br>
+Ushbu applicationni 5-6 kun ichida yasadim, 2 haftalar avval<br>
 
-<h2>download at this link:</h2>
+<h3>download at this link:</h3>
 <h3>https://github.com/Luxsidos/my_chat_application/blob/main/app-release.apk</h3><br>
 
 <h2>Video Shaklida:</h2>
